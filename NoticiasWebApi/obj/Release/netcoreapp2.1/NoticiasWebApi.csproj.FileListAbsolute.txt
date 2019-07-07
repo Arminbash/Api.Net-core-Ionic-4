@@ -1,0 +1,14 @@
+C:\Users\Arminbash\Documents\GitHub\Api.Net-core-Ionic-4\NoticiasWebApi\bin\Release\netcoreapp2.1\NoticiasWebApi.deps.json
+C:\Users\Arminbash\Documents\GitHub\Api.Net-core-Ionic-4\NoticiasWebApi\bin\Release\netcoreapp2.1\NoticiasWebApi.runtimeconfig.json
+C:\Users\Arminbash\Documents\GitHub\Api.Net-core-Ionic-4\NoticiasWebApi\bin\Release\netcoreapp2.1\NoticiasWebApi.runtimeconfig.dev.json
+C:\Users\Arminbash\Documents\GitHub\Api.Net-core-Ionic-4\NoticiasWebApi\bin\Release\netcoreapp2.1\NoticiasWebApi.dll
+C:\Users\Arminbash\Documents\GitHub\Api.Net-core-Ionic-4\NoticiasWebApi\bin\Release\netcoreapp2.1\NoticiasWebApi.pdb
+C:\Users\Arminbash\Documents\GitHub\Api.Net-core-Ionic-4\NoticiasWebApi\obj\Release\netcoreapp2.1\NoticiasWebApi.csprojAssemblyReference.cache
+C:\Users\Arminbash\Documents\GitHub\Api.Net-core-Ionic-4\NoticiasWebApi\obj\Release\netcoreapp2.1\NoticiasWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Arminbash\Documents\GitHub\Api.Net-core-Ionic-4\NoticiasWebApi\obj\Release\netcoreapp2.1\NoticiasWebApi.RazorAssemblyInfo.cache
+C:\Users\Arminbash\Documents\GitHub\Api.Net-core-Ionic-4\NoticiasWebApi\obj\Release\netcoreapp2.1\NoticiasWebApi.RazorAssemblyInfo.cs
+C:\Users\Arminbash\Documents\GitHub\Api.Net-core-Ionic-4\NoticiasWebApi\obj\Release\netcoreapp2.1\NoticiasWebApi.AssemblyInfoInputs.cache
+C:\Users\Arminbash\Documents\GitHub\Api.Net-core-Ionic-4\NoticiasWebApi\obj\Release\netcoreapp2.1\NoticiasWebApi.AssemblyInfo.cs
+C:\Users\Arminbash\Documents\GitHub\Api.Net-core-Ionic-4\NoticiasWebApi\obj\Release\netcoreapp2.1\NoticiasWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Arminbash\Documents\GitHub\Api.Net-core-Ionic-4\NoticiasWebApi\obj\Release\netcoreapp2.1\NoticiasWebApi.dll
+C:\Users\Arminbash\Documents\GitHub\Api.Net-core-Ionic-4\NoticiasWebApi\obj\Release\netcoreapp2.1\NoticiasWebApi.pdb
