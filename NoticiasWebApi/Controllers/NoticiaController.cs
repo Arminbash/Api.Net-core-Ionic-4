@@ -35,7 +35,7 @@ namespace NoticiasWebApi.Controllers
         public IActionResult Agregar([FromBody] Noticia NoticiaAgregar)
         {
             if (_noticiaServicio.Agregar(NoticiaAgregar))
-                return Ok("Agregado");
+                return Ok();
             else
                 return BadRequest();
         }
@@ -61,5 +61,11 @@ namespace NoticiasWebApi.Controllers
 
         }
 
+         
+        [Route("ListadoAutores")]
+        public IActionResult ListadoAutores()
+        {
+            return Ok( _noticiaServicio.listadoDeAutores());
+        }
     }
 }
