@@ -28,8 +28,8 @@
       </ion-item>
       <ion-item>
           <ion-label position="floating">Autor</ion-label>
-          <ion-select [(ngModel)]="noticia.autorID" placeholder="Seleccione un autor" interface ="popover">
-              <ion-select-option *ngFor ="let autor of autores"  [value]="autor.autorID">{{autor.nombre}} {{autor.apellido}}</ion-select-option>
+          <ion-select [(ngModel)]="noticia.autorId" placeholder="Seleccione un autor" interface ="popover">
+              <ion-select-option *ngFor ="let autor of autores"  [value]="autor.autorId">{{autor.nombre}} {{autor.apellido}}</ion-select-option>
             </ion-select>
       </ion-item>
 
